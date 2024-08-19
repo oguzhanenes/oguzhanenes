@@ -2,9 +2,9 @@
 ![MasterHead](https://www.simplilearn.com/ice9/free_resources_article_thumb/Best-Programming-Languages-to-Start-Learning-Today.jpg)
 
 <h1 align="center">Hi 👋, I'm Oğuzhan</h1>
-<h3 align="center">A passionate Python developer from Türkiye</h3>
+<h3 align="center">A passionate React developer from Türkiye</h3>
 
-- 🔭 I’m currently working on **Python**
+- 🔭 I’m currently working on **React**
 
 - 📫 How to reach me **oguzhaneozat@gmail.com**
 
